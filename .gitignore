@@ -1,0 +1,4 @@
+*.zip
+sample_submission.csv
+test_data/
+train_data/
